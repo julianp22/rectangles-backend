@@ -10,7 +10,7 @@ intersection points, adjacency type if any, and if there exists a containment be
 
 ## Image example of adjacency, containment and intersection
 
-![image info](.\src\test\resources\rectangle-tests\testCases.png)
+![testCases](https://github.com/julianp22/rectangles-backend/assets/28449098/f11b1c10-9f01-46f9-a458-324f6587a5d4)
 
 ## Docker
 
